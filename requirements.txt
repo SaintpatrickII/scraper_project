@@ -1,0 +1,7 @@
+boto3==1.21.22
+pandas==1.4.1
+selenium==4.1.0
+sqlalchemy
+psycopg2-binary
+chromedriver-autoinstaller==0.3.1
+urllib3==1.26.7
